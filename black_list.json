@@ -409,15 +409,6 @@
             "created_at": "2021-06-20 00:00:00",
             "updated_at": "2021-06-20 00:00:00"
         },
-
-
-
-
-
-
-
-
-
         {
             "name": "9-E-6-S",
             "items": [
@@ -3033,6 +3024,427 @@
             ],
             "created_at": "2021-06-20 00:00:00",
             "updated_at": "2021-06-20 00:00:00"
+        },
+        {
+            "name": "Corriere del mattino",
+            "items": [
+                {
+                    "url": "http://www.ilcorrieredelmattino.it/",
+                    "type": "web",
+                    "description": "inattivo"
+                },
+                {
+                    "url": "https://www.facebook.com/ilcorrieredelmattino/",
+                    "type": "facebook",
+                    "description": "inattivo"
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Corriere della Notte",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/Corriere-Della-Notte-1456763917887338/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Corriere del Corsaro",
+            "items": [
+                {
+                    "url": "http://www.corrieredelcorsaro.it/",
+                    "type": "web",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.facebook.com/corrieredelcorsaro",
+                    "type": "facebook",
+                    "description": ""
+                },
+                {
+                    "url": "https://twitter.com/corrierecorsaro",
+                    "type": "twitter",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.youtube.com/user/GianMarcoSaolini",
+                    "type": "youtube",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Chiave Orgonica",
+            "items": [
+                {
+                    "url": "https://chiaveorgonica.altervista.org/",
+                    "type": "web",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.facebook.com/LaChiaveOrgonica/",
+                    "type": "facebook",
+                    "description": ""
+                },
+                {
+                    "url": "https://twitter.com/lachiaveorgonic",
+                    "type": "twitter",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.youtube.com/channel/UCFQos8lAW0vPWLpU11M0KyA",
+                    "type": "youtube",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Il Giomale",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/IlGiomale/",
+                    "type": "facebook",
+                    "description": "la pagina facebook fa riferimento ad un altro sito di fake news, Il Fatto Quotidaino"
+                },
+                {
+                    "url": "http://www.ilgiomale.it/",
+                    "type": "web",
+                    "description": "inattivo"
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "IoVivoaRoma",
+            "items": [
+                {
+                    "url": "http://www.iovivoaroma.org/",
+                    "type": "web",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.facebook.com/IO-VIVO-A-ROMA-85251367489/",
+                    "type": "facebook",
+                    "description": ""
+                },
+                {
+                    "url": "https://twitter.com/iovivoaroma",
+                    "type": "twitter",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Lo Specchio",
+            "items": [
+                {
+                    "url": "http://www.lospecchio.com/",
+                    "type": "web",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.facebook.com/lo.specchio.52",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Salute360Gradi",
+            "items": [
+                {
+                    "url": "https://salute360gradi.altervista.org/",
+                    "type": "web",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.facebook.com/360gradisalute/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Il Matto quotidiano",
+            "items": [
+                {
+                    "url": "https://www.ilmattoquotidiano.it/",
+                    "type": "web",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.facebook.com/Il-Matto-Quotidiano-446613578829098/",
+                    "type": "facebook",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.instagram.com/ilmattoquotidiano/",
+                    "type": "instagram",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "La gazzetta della sera",
+            "items": [
+                {
+                    "url": "http://www.lagazzettadellasera.it/",
+                    "type": "web",
+                    "description": "inattivo"
+                },
+                {
+                    "url": "https://www.facebook.com/lagazzettadellasera/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Info 24 ore",
+            "items": [
+                {
+                    "url": "http://www.info24ore.com/",
+                    "type": "web",
+                    "description": "inattivo, dominio riassegnato"
+                },
+                {
+                    "url": "https://www.facebook.com/info24ore",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "24H Italia News",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/24hitalianewscom/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "A chi sacciu",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/achisacciu/",
+                    "type": "facebook",
+                    "description": ""
+                },
+                {
+                    "url": "https://www.webnews24h.it/",
+                    "type": "web",
+                    "description": "inattivo"
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Adesso fuori dai coglioni",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/groups/adessofuoridaicoglioni",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Aprite gli occhi",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/apritegliocchi/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Aristocrazia Nera",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/aristocrazianera1/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Avvistamenti di Creature Mitologiche",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/creaturemitologiche/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "Azione di popolo",
+            "items": [
+                {
+                    "url": "https://www.facebook.com/ADPazionedipopolo/",
+                    "type": "facebook",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "",
+            "items": [
+                {
+                    "url": "",
+                    "type": "web",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "",
+            "items": [
+                {
+                    "url": "",
+                    "type": "web",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
+        },
+        {
+            "name": "",
+            "items": [
+                {
+                    "url": "",
+                    "type": "web",
+                    "description": ""
+                }
+            ],
+            "tags": [
+                "fake news",
+                "dangerous news"
+            ],
+            "created_at": "2021-06-21 17:35:00",
+            "updated_at": "2021-06-21 17:35:00"
         }
     ]
 }
